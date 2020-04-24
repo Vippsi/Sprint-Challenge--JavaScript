@@ -17,8 +17,11 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+/* This is because the the nestedFunction is nested, therefore the variable internal is able to go up a level and get the data*/ 
 
 /* Task 2: Counter */
 
 /* Create a function called `sumation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. */
+function sumation(number){
+
+}
